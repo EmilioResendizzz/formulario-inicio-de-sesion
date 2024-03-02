@@ -42,7 +42,7 @@ color : #fff;
 
 }
 
-.login-form form input[type="text"], input[type="email"]{
+.login-form form input[type="text"], input[type="password"]{
 outline: none;
 font-size:1em;
 color:#fff;
@@ -69,7 +69,7 @@ font-weight:bold;
 text-transform: uppercase;
 background: #fff;
 border: none;
-color: #000000;
+color: #4C4C4C;
 cursor:pointer;
 transition: 0.3s all;
 
